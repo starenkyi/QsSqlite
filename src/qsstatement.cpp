@@ -4,7 +4,7 @@
 
 #include <QtGlobal>
 
-#include "../include/sqlite3.h"
+#include "sqlite3.h"
 #include "../include/qsconnection.h"
 
 using BlobData      = QPair<unsigned char*, int>;
